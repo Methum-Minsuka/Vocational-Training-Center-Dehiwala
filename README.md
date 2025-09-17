@@ -1,12 +1,12 @@
-# 📘 Vocational Training Center - Dehiwala
+# 📘 Vocational Training Center Online - Dehiwala
 
-### 🔹 Project Name: `Vocational-Training-Center-Dehiwala`
+### 🔹 Project Name: `Vocational-Training-Center-Online-Dehiwala`
 
 ---
 
 ## 📝 Description
 
-**"Vocational Training Center - Dehiwala"** is a Windows desktop application developed specifically for the government institution Vocational Training Center - Dehiwala. This software is designed to provide **student learning access management** and o**nline lesson control** within the institution.
+**"Vocational Training Center Online - Dehiwala"** is a Windows desktop application developed specifically for the government institution Vocational Training Center - Dehiwala. This software is designed to provide **student learning access management** and o**nline lesson control** within the institution.
 
 The system allows the **Admin** to create student accounts via **Google Forms**, storing usernames and passwords in an **online database**. Students can log in from anywhere, and their credentials are verified online before granting access.  
 
